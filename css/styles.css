@@ -2,55 +2,27 @@
 	margin: 0px;
 	padding: 0px;
 	box-sizing: border-box;
-	font-family: arial;
+	font-family: 'B612', sans-serif;
 }
 header ul{
 	font-size: 15px;
 }
-#front-image{text-align: center;}
-#front-image img{
-	margin: 3%;
-	width: 100%;
-	max-width: 330px;
-	height: auto;
+.myheader{
+    background-image: url("../images/001.jpeg");
+    color: ghostwhite;
+    font-weight: 450;
+    max-height: 100%;
+    background-size: cover;
+    background-repeat: no repeat;
 }
-#main{
-	/*background-color: lightgrey;*/
-	/*padding: 30px;*/
-	color: ghostwhite;
-	border-radius: 12px;
-	/*margin-top:6%;*/
-	margin-left: 3%;
-	margin-right: 3%;
-	margin-bottom: 1%;
-	font-size: 15px;
-	font-weight: 400;
+#main-content{
+	color: slategrey;
+	margin-top: 5%;
+	margin-bottom: 3%;
 }
-#main p{
-	/*background-color: #0066ff;*/
-	padding: 3%;
-	margin: 0px;
-}
-.p1{
-	background-color: #3385ff;
-}
-.p2{
-	background-color: #0047b3;
-}
-
-/*@media only and screen(max-width: 600px){
-	#front-image img{
-		width: 100%;
-		max-width: 336px;
-		height: auto;
-		padding: 5%;
-	}
-}*/
-
 #main-footer{
 	/*margin: 3%;*/
 	margin-top: 2%;
-	margin-bottom: 1%;
 	padding: 2%;
 	text-align: center;
 	font-size: 12px;
