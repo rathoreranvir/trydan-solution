@@ -2,7 +2,7 @@
   margin: 0px;
   padding: 0px;
   box-sizing: border-box;
-  font-family: arial;
+  font-family: 'B612', sans-serif;
 }
 header ul{
   font-size: 15px;
@@ -12,18 +12,20 @@ header ul{
   margin: 5.1%;
   margin-top: 6%;
   padding: 20px;
+  padding-left: 9%;
+  padding-right: 9%;
 }
 #products h1{
   font-weight: 700;
-  text-align: center;
+  text-align: left;
   padding: 2%;
+  padding-left: 0;
   text-decoration: underline;
 }
 .row{
   max-width: 1200px;
-  margin: auto;
   background-color: #f2f2f2;
-  overflow: auto;
+  overflow: hidden;
 }
 .column{
   margin: 5px;
