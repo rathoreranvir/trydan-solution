@@ -8,6 +8,8 @@ header ul{
 	font-size: 15px;
 }
 .myheader{
+    margin-top: 6%;
+    margin-bottom: 5%;
     background-image: url("../images/001.jpeg");
     color: ghostwhite;
     font-weight: 450;
