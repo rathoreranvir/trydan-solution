@@ -14,7 +14,7 @@ header ul{
     color: ghostwhite;
     font-weight: 450;
     max-height: 100%;
-    background-size: contain;
+    background-size: auto;
     background-repeat: no repeat;
 }
 #main-content{
