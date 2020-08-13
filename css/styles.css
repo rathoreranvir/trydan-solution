@@ -13,8 +13,8 @@ header ul{
     background-image: url("../images/001.jpeg");
     color: ghostwhite;
     font-weight: 450;
-    //max-width: 100%;
-    background-size: 100%;
+    max-width: 100%;
+    background-size: cover;
     background-repeat: no repeat;
 }
 #main-content{
